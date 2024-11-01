@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "SnuggleAI",
+  "version": "1.0",
+  "description": "A light-weight Chrome extension for fast & accurate fact-checking",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icons/icon48.png",
+      "96": "icons/icon96.png"
+    }
+  },
+  "icons": {
+      "48": "icons/icon48.png",
+      "96": "icons/icon96.png"
+  },
+  "permissions": []
+}
